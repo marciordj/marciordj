@@ -1,12 +1,14 @@
 ### Hi there 🤪
 ---
 
-Meu nome é Luiz Marcio, atualmente trabalho como estágiario na [Eduzz](https://www.eduzz.com/) no time de aplicativo. Estou no 5º semestre de Gestão de Tecnologia da Informação pela Fatec.
+Meu nome é Luiz Marcio, atualmente trabalho como estágiario na [Eduzz](https://www.eduzz.com/) no time de aplicativo. Estou no 6º semestre de Gestão de Tecnologia da Informação pela Fatec.
 
 📚 Atualmente estudo e trabalho com:
 - Javascript
 - React Native
 - RxJS
+- React Native Elements
+- Node
 
 Também tenho experiência com HTML e CSS 😁
 
