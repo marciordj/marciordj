@@ -15,8 +15,8 @@ Também tenho experiência com HTML e CSS 😁
 ---
 
 ### Contato
-🗄 [Linkedin](https://www.linkedin.com/in/marciordj/) 
-✉️ Email: [lmarciorodriguesjunior@gmail.com](lmarciorodriguesjunior@gmail.com)
+- 🗄 [Linkedin](https://www.linkedin.com/in/marciordj/) 
+- ✉️ Email: [lmarciorodriguesjunior@gmail.com](lmarciorodriguesjunior@gmail.com)
 
 
 
