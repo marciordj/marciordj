@@ -22,7 +22,7 @@ Também tenho experiência com HTML e CSS 😁
 - 🗄 [Linkedin](https://www.linkedin.com/in/marciordj/) 
 - ✉️ Email: [lmarciorodriguesjunior@gmail.com](lmarciorodriguesjunior@gmail.com)
 
-
+---
 
 #### Ps: [Clique aqui](https://github.com/anuraghazra/github-readme-stats) se quiser ver o repositório e como usar o placar que está aqui em cima com os status do teu Github 
 
