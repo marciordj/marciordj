@@ -19,7 +19,7 @@ Também tenho experiência com HTML e CSS 😁
 - 🗄 [Linkedin](https://www.linkedin.com/in/marciordj/) 
 - ✉️ Email: [lmarciorodriguesjunior@gmail.com](lmarciorodriguesjunior@gmail.com)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marciordj&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/marciordj/github-readme-stats)
 
   
 
