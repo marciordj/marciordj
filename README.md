@@ -14,7 +14,7 @@ Estou no 6º semestre de Gestão de Tecnologia da Informação pela Fatec.
 - React Native Elements
 - Node
 
-Também tenho experiência com HTML e CSS 😁
+Também tenho experiência com HTML, CSS e React 😁
 
 ---
 
