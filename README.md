@@ -1,7 +1,7 @@
 ### Hi, i'm Marcio 🤪
 ---
 
-Meu nome é Marcio, atualmente trabalho como dev mobile na [Eduzz](https://www.eduzz.com/) no time de App. Lá estou trabalhando principalmente no front do aplicativo, porém também faço algumas coisas no back-end, sempre tentando ao máximo escrever um código limpo baseado em boas práticas.
+Meu nome é Marcio, atualmente trabalho como dev front-end / mobile na [Eduzz](https://www.eduzz.com/) no time de App. Lá estou trabalhando principalmente no front do aplicativo, porém também faço algumas coisas no back-end, sempre tentando ao máximo escrever um código limpo baseado em boas práticas.
 Sou formado em Gestão da Tecnologia da Informação pela FATEC.
 
 ---
