@@ -1,7 +1,7 @@
 ### Hi, i'm Marcio
 ---
 
-Meu nome é Marcio, atualmente trabalho como dev front-end / mobile na [Eduzz](https://www.eduzz.com/) no time de App. Lá estou trabalhando principalmente no front do aplicativo, porém também faço algumas coisas no back-end, sempre tentando ao máximo escrever um código limpo baseado em boas práticas.
+Meu nome é Marcio, atualmente trabalho como dev na [Eduzz](https://www.eduzz.com/).
 Sou formado em Gestão da Tecnologia da Informação pela FATEC.
 
 ---
@@ -12,6 +12,9 @@ Sou formado em Gestão da Tecnologia da Informação pela FATEC.
 - RxJS
 - React Native Elements
 - Node (Nestjs)
+- PHP
+- Typescript
+- Docker
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_plain_logo_icon_146554.png" width="35" height="35" />  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png" width="35" height="35" />  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/javascript_original_logo_icon_146455.png" width="35" height="35" /> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/react_original_logo_icon_146374.png" width="35" height="35" />  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_nestjs_icon_130355.png" width="35" height="35" />
 
